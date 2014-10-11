@@ -21,7 +21,9 @@ class Auto:
         else:
             print "No se mueve..."
 
-
+# Clase Helicoptero hereda de Auto
+class Helicoptero(Auto):
+	pass
 """mi_auto = Auto(50)
 ### cuanta gasolina tenemos
 print mi_auto.gasolina
