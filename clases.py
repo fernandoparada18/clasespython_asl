@@ -21,6 +21,13 @@ class Auto:
         else:
             print "No se mueve..."
 
-mi_auto = Auto(50)
 
+"""mi_auto = Auto(50)
 ### cuanta gasolina tenemos
+print mi_auto.gasolina
+# arrancamos el carro
+mi_auto.arrancar()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.conducir()
+mi_auto.conducir()"""
