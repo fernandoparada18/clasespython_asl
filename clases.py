@@ -5,8 +5,8 @@ class Auto:
     def __init__(self, gasolina):
         self.gasolina = gasolina
         print "Tenemos", gasolina, "litros"
-
-
+	
+	
     def arrancar(self):
         if self.gasolina > 0:
             print "Arranca"
